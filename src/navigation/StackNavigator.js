@@ -15,6 +15,9 @@ const screenOptionStyle = {
   headerBackTitle: "Back",
 };
 
+
+
+
 const MainStackNavigator = () => {
   return (
     <Stack.Navigator screenOptions={screenOptionStyle}>
